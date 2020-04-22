@@ -1,0 +1,129 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  width:1300px;
+  height: auto;
+  margin: auto;
+}
+
+header img {
+  width: 100%;
+  position: relative;
+}
+
+header h2 {
+  font-size: 25px;
+  margin: 0;
+}
+
+header h1 {
+  font-size: 55px;
+  margin: 0;
+}
+
+.header {
+  position: absolute;
+  bottom: 35%;
+  left: 30%;
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+  letter-spacing: 2px;
+}
+
+main {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+h3, h4, h5 {
+  font-family: 'Merriweather', italic;
+  font-size: 25px;
+  width: 100%;
+  margin-left: 20px;
+  margin-right: 0px;
+}
+
+p, ul, strong {
+ font-family: 'Josefin Sans', sans-serif;
+  line-height: 25px;
+}
+
+.exp {
+  margin-left: 50px;
+}
+.first {
+  font-size: 20px;
+  margin-left: 30px;
+  margin-right: 50px;
+}
+
+.achiv{
+  margin-left: 20px;
+}
+ul {
+  margin-bottom: 25px;
+}
+
+h3 {
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  margin-bottom: 30px;
+}
+
+h4 {
+  letter-spacing: 1px;
+  margin-bottom: 0;
+}
+
+h5 {
+  margin-top: 1px;
+  font-style: italic;
+  font-size: 15px;
+}
+
+.blockq {
+  position: relative;
+  width: 90%;
+  background: #222;
+  color: white;
+  font-size: 22px;
+  font-family: 'Abril Fatface', cursive;
+  padding: 10px;
+  letter-spacing: 1px;
+  margin-bottom: 30px;
+  
+}
+
+.cite {
+  font-size: 45px;
+  font-family: 'Abril Fatface', cursive;
+  line-height: 45px;
+  letter-spacing: 1px;
+}
+
+blockquote p::before {
+    content: '\201C';
+  font-size: 90px;
+  position: absolute;
+  top: 22px;
+  left: 0;
+}
+
+hr {
+  width: 50%;
+  height: 5px;
+  background: black;
+}
+
+.pers {
+  width: 50%;
+  margin-left:300px;
+}
+
+.hobbi{
+   width: 50%;
+  margin-left:330px;
+}
