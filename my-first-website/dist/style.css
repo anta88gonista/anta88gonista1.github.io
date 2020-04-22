@@ -25,7 +25,7 @@ header h1 {
 
 .header {
   position: absolute;
-  bottom: 35%;
+  bottom: 55%;
   left: 30%;
   font-family: 'Abril Fatface', cursive;
   color: #222;
@@ -60,7 +60,7 @@ p, ul, strong {
   margin-right: 50px;
 }
 
-.achiv{
+.achiv {
   margin-left: 20px;
 }
 ul {
@@ -92,7 +92,7 @@ h5 {
   font-size: 22px;
   font-family: 'Abril Fatface', cursive;
   padding: 10px;
-  letter-spacing: 1px;
+  letter-spacing: 2px;
   margin-bottom: 30px;
   
 }
